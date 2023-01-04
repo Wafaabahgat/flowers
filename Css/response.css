@@ -1,0 +1,16 @@
+/* Small Devices: Wide-Screen Mobile */
+@media (min-width: 640px) {
+  footer {
+    display: unset !important;
+  }
+
+  header {
+    display: unset !important;
+  }
+}
+/* Large Devices: Desktop */
+@media (min-width: 1024px) {
+}
+/* Extra Extra Large Devices: Desktop */
+@media (min-width: 1536px) {
+}
